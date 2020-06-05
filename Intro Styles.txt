@@ -1,0 +1,5 @@
+revision of css
+css styles can be used in threee ways
+1. inline style : by using the html attribute named style.
+2. embeded styles : by using style element in the head portion of html
+3. external styles : in this type, we create a separate style sheet file, whose extension is .css (filename.css). this file contains all the styles for the site. this file is linked, called in the html files.
